@@ -1,0 +1,8 @@
+{
+  "name": "religisaci/parser-latte",
+  "description": "Parser latte templates.",
+  "license": ["MIT"],
+  "require": {
+    "php": "^7.0"
+  }
+}
