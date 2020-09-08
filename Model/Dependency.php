@@ -1,5 +1,6 @@
 <?php
 
+namespace Religisaci\ParserLatte;
 
 class Dependency
 {
